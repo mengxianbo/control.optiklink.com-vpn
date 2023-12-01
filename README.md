@@ -1,4 +1,4 @@
-# control.optiklink.com-vpn
+# (https://control.optiklink.com/)
 
 删除自带的 bedrock_server   新建： bedrock_server
 
